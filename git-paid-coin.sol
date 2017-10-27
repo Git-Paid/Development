@@ -1,3 +1,4 @@
+// This contract functions on Rinkeby
 pragma solidity ^0.4.17;
 
 contract Token {
